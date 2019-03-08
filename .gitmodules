@@ -4,3 +4,6 @@
 [submodule "auv-cv"]
 	path = auv-cv
 	url = git@github.com:vortexntnu/auv-cv.git
+[submodule "darknet_ros"]
+	path = darknet_ros
+	url = git@github.com:vortexntnu/darknet_ros.git
