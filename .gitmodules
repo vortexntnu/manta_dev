@@ -1,3 +1,6 @@
 [submodule "manta-auv"]
 	path = manta-auv
 	url = git@github.com:vortexntnu/manta-auv.git
+[submodule "auv-cv"]
+	path = auv-cv
+	url = git@github.com:vortexntnu/auv-cv.git
