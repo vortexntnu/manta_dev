@@ -25,6 +25,7 @@ If you do not have cuda remember to add touch CATKIN\_IGNORE in darknet\_ros.
 	```bash
 	$ cd
 	```
+
 	```bash
 	$ touch manta_ws/src/manta\_ros/darknet\_ros/CATKIN\_IGNORE
 	```
