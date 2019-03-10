@@ -3,8 +3,27 @@ This repository is meant to collect and keep track of the different repositories
 
 ## Downloading
 
+1. Clone the repository
+	```bash
+	$ git clone git@github.com:vortexntnu/manta_ros.git
+	```
+
+2. Initialize the submodules
+    ```bash
+	$ cd manta_ws/src/manta_ros/
+	```
+	```bash
+	$ git submodule update --init
+	```
+
 After cloning this repository, navigate into manta_ros and run the command "git submodule update --init"
 
 ## Important when building
 
-If you do not have cuda remember to add touch CATKIN\_IGNORE in darknet\_ros. "touch path\_to/workspace/src/manta\_ros/darknet\_ros/CATKIN\_IGNORE"
+If you do not have cuda remember to add touch CATKIN\_IGNORE in darknet\_ros.
+	```bash
+	$ cd
+	```
+	```bash
+	$ touch manta_ws/src/manta\_ros/darknet\_ros/CATKIN\_IGNORE
+	```
