@@ -10,7 +10,7 @@ This repository is meant to collect and keep track of the different repositories
 
 2. Initialize the submodules
     ```bash
-	$ cd manta_ws/src/manta_ros/
+	$ cd ~/manta_ws/src/manta_ros/
 	```
 	```bash
 	$ git submodule update --init --recursive
