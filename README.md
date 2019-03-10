@@ -13,7 +13,7 @@ This repository is meant to collect and keep track of the different repositories
 	$ cd manta_ws/src/manta_ros/
 	```
 	```bash
-	$ git submodule update --init
+	$ git submodule update --init --recursive
 	```
 
 After cloning this repository, navigate into manta_ros and run the command "git submodule update --init"
