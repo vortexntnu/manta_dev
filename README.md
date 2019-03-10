@@ -21,11 +21,12 @@ After cloning this repository, navigate into manta_ros and run the command "git 
 ## Important when building
 
 If you do not have cuda remember to add touch CATKIN\_IGNORE in darknet\_ros.
-
+1. Navigate to home
 	```bash
 	$ cd
 	```
 
+2. Add CATKIN_IGNORE
 	```bash
 	$ touch manta_ws/src/manta\_ros/darknet\_ros/CATKIN\_IGNORE
 	```
