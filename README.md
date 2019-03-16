@@ -30,3 +30,26 @@ If you do not have cuda remember to add touch CATKIN\_IGNORE in darknet\_ros.
 	```bash
 	$ touch manta_ws/src/manta_ros/darknet_ros/CATKIN_IGNORE
 	```
+
+## How to use
+
+When the master branch of the subrepo is updated it is necessary to update which commit this repository points to. Be careful not to update this repo to point to a specific branch instead of the master branch.
+1. Navigate to manta_ros
+	```bash
+	$ cd ~/manta_auv/src/manta_ros/
+	```
+
+2. Stage for commit
+	```bash
+	$ git add "subrepo"
+	```
+
+3. Commit
+	```bash
+	$ git commit -m 'Commit message here'
+	```
+
+4. Push to master
+	```bash
+	$ git push origin master
+	```
