@@ -13,3 +13,6 @@
 [submodule "vortex_msgs"]
 	path = vortex_msgs
 	url = https://github.com/vortexntnu/vortex_msgs.git
+[submodule "sensor_fusion"]
+	path = sensor_fusion
+	url = git@github.com:vortexntnu/sensor_fusion.git
