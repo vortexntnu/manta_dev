@@ -10,3 +10,6 @@
 [submodule "uuv-simulator"]
 	path = uuv-simulator
 	url = https://github.com/vortexntnu/uuv-simulator.git
+[submodule "vortex_msgs"]
+	path = vortex_msgs
+	url = https://github.com/vortexntnu/vortex_msgs.git
