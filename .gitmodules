@@ -7,3 +7,9 @@
 [submodule "darknet_ros"]
 	path = darknet_ros
 	url = git@github.com:vortexntnu/darknet_ros.git
+[submodule "uuv-simulator"]
+	path = uuv-simulator
+	url = https://github.com/vortexntnu/uuv-simulator.git
+[submodule "vortex_msgs"]
+	path = vortex_msgs
+	url = https://github.com/vortexntnu/vortex_msgs.git
