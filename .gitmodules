@@ -16,3 +16,6 @@
 [submodule "sensor_fusion"]
 	path = sensor_fusion
 	url = git@github.com:vortexntnu/sensor_fusion.git
+[submodule "dvl1000_ros"]
+	path = dvl1000_ros
+	url = git@github.com:vortexntnu/dvl1000_ros.git
