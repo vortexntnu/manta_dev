@@ -1,12 +1,12 @@
 [submodule "manta-auv"]
 	path = manta-auv
-	url = https://github.com:vortexntnu/manta-auv.git
+	url = https://github.com/vortexntnu/manta-auv.git
 [submodule "auv-cv"]
 	path = auv-cv
-	url = https://github.com:vortexntnu/auv-cv.git
+	url = https://github.com/vortexntnu/auv-cv.git
 [submodule "darknet_ros"]
 	path = darknet_ros
-	url = https://github.com:vortexntnu/darknet_ros.git
+	url = https://github.com/vortexntnu/darknet_ros.git
 [submodule "uuv-simulator"]
 	path = uuv-simulator
 	url = https://github.com/vortexntnu/uuv-simulator.git
@@ -15,10 +15,10 @@
 	url = https://github.com/vortexntnu/vortex_msgs.git
 [submodule "sensor_fusion"]
 	path = sensor_fusion
-	url = https://github.com:vortexntnu/sensor_fusion.git
+	url = https://github.com/vortexntnu/sensor_fusion.git
 [submodule "dvl1000_ros"]
 	path = dvl1000_ros
-	url = https://github.com:vortexntnu/dvl1000_ros.git
+	url = https://github.com/vortexntnu/dvl1000_ros.git
 [submodule "thruster_control"]
 	path = thruster_control
-	url = https://github.com:vortexntnu/thruster_control.git
+	url = https://github.com/vortexntnu/thruster_control.git
